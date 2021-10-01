@@ -1,0 +1,30 @@
+F:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\bin\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.exe.config
+F:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\bin\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.exe
+F:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\bin\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.pdb
+F:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.csprojResolveAssemblyReference.cache
+F:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad_Integradora_Periodo_3_Delgado_Ramírez.Form1.resources
+F:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad_Integradora_Periodo_3_Delgado_Ramírez.Form2.resources
+F:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad_Integradora_Periodo_3_Delgado_Ramírez.Form3.resources
+F:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad_Integradora_Periodo_3_Delgado_Ramírez.Form4.resources
+F:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad_Integradora_Periodo_3_Delgado_Ramírez.Properties.Resources.resources
+F:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.csproj.GenerateResource.Cache
+F:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.exe
+F:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.pdb
+D:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\bin\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.exe.config
+D:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.exe
+D:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.pdb
+E:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\bin\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.exe.config
+E:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.exe
+E:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.pdb
+E:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\bin\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.exe
+E:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\bin\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.pdb
+E:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.csprojResolveAssemblyReference.cache
+E:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad_Integradora_Periodo_3_Delgado_Ramírez.Form1.resources
+E:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad_Integradora_Periodo_3_Delgado_Ramírez.Form2.resources
+E:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad_Integradora_Periodo_3_Delgado_Ramírez.Form3.resources
+E:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad_Integradora_Periodo_3_Delgado_Ramírez.Form4.resources
+E:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad_Integradora_Periodo_3_Delgado_Ramírez.Properties.Resources.resources
+E:\INFO SEMESTRE4\Actividad Integradora Periodo 3 Delgado-Ramírez\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.csproj.GenerateResource.Cache
+E:\INFO SEMESTRE4\Game FastCash Val - copia\Actividad Integradora Periodo 3 Delgado-Ramírez\bin\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.exe.config
+E:\INFO SEMESTRE4\Game FastCash Val - copia\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.exe
+E:\INFO SEMESTRE4\Game FastCash Val - copia\Actividad Integradora Periodo 3 Delgado-Ramírez\obj\Debug\Actividad Integradora Periodo 3 Delgado-Ramírez.pdb
